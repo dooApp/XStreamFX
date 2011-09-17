@@ -1,0 +1,8 @@
+XStreamFX is a collection of converters for XStream intended to handle JavaFX types (properties, observable collections,...).
+
+How does it work?
+
+The easiest way to use XStreamFX is to use the FXConverters class to configure your XStream instance:
+
+XStream xStream = new XStream();
+FXConverters.configure(xStream);
