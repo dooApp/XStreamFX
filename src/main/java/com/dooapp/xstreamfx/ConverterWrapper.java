@@ -10,7 +10,6 @@ import com.thoughtworks.xstream.io.HierarchicalStreamWriter;
  * Created at 17/09/11 12:37.<br>
  *
  * @author Antoine Mischler <antoine@dooapp.com>
- * @since 2.0
  */
 public class ConverterWrapper implements Converter {
 

@@ -9,7 +9,6 @@ import javafx.beans.value.WritableValue;
  * Created at 17/09/11 11:16.<br>
  *
  * @author Antoine Mischler <antoine@dooapp.com>
- * @since 2.0
  */
 public class IntegerPropertyConverter extends AbstractPropertyConverter<Number> implements Converter {
 

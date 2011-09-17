@@ -14,7 +14,6 @@ import javafx.beans.value.WritableValue;
  * Created at 17/09/11 10:58.<br>
  *
  * @author Antoine Mischler <antoine@dooapp.com>
- * @since 2.0
  */
 public abstract class AbstractPropertyConverter<T> implements Converter {
 
