@@ -4,7 +4,7 @@
 
     <groupId>com.dooapp.XStreamFX</groupId>
     <artifactId>XStreamFX</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3-SNAPSHOT</version>
     <parent>
         <groupId>org.sonatype.oss</groupId>
         <artifactId>oss-parent</artifactId>
